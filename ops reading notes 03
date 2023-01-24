@@ -1,0 +1,14 @@
+What is the BIOS?
+Basic input output systems-system utility program loads operating system when computer is switched on.
+Use analogies from your previous background to explain what happens during the booting process?
+cpu=car key 
+Bois =car battery
+os->ram =starter
+=full operation
+What is the “Power On Self Test”?
+POST-checks internal hardware for compatibility connection and checks for errors before loading operating system.
+What is the CMOS?
+Complementary metal oxide semiconductor-used to produce integrated circuits
+What is the CMOS battery?
+Non-volitile ram-or cmos ram because it is powered by cmos battery when system is switched off.
+
